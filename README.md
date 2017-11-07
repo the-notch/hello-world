@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+Hello there,
+
+My name is Stella and I like banana bread.
